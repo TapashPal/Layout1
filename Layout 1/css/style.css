@@ -1,0 +1,31 @@
+
+.header{
+	background-color:#3e3e28;
+	min-height:160px;
+	border: 5px solid #547390;
+	}
+.body{
+	min-height: 400px;
+	
+	border: 5px solid pink;
+	}
+ .blog{
+ 	background-color:#b8b894;
+ 	min-height:400px;
+ 	float: left;
+ 	width: 40%;
+    }
+.content{
+	background-color:#3333ff;
+	min-height: 400px;
+	width:60%;
+	float: right;
+    }
+.footer{
+	background-color:#0d0d0d;
+	min-height:40px;
+	
+	}
+	.head1, .head2, .head3, .head0{
+		text-align: center;
+	}
